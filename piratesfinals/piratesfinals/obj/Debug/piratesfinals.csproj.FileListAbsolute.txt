@@ -1,0 +1,13 @@
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.frmPirates.resources
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.Properties.Resources.resources
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\bin\Debug\piratesfinals.exe.config
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\bin\Debug\piratesfinals.exe
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\bin\Debug\piratesfinals.pdb
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\bin\Debug\System.Data.OleDb.dll
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\bin\Debug\System.Data.OleDb.xml
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesf.AB565443.Up2Date
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.exe
+C:\Users\Kyle\source\repos\piratesfinals\piratesfinals\obj\Debug\piratesfinals.pdb
